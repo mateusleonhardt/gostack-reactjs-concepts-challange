@@ -6,11 +6,16 @@
 
 body {
   font-size: 14px;
+  font-family: sans-serif;
 }
 
 div {
   width: 100%;
   margin: 20px;
+}
+
+div h1 {
+  margin-bottom: 15px;
 }
 
 div li {
