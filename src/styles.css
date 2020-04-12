@@ -7,11 +7,18 @@
 body {
   font-size: 14px;
   font-family: sans-serif;
+  height: 100vh;
+  background: #333333;
+  color: #fff;
 }
 
-div {
-  width: 100%;
-  margin: 20px;
+#root {
+  width: 400px;
+  margin: 20px auto;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 div h1 {
